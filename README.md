@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MrTsunami4
-- 👀 I'm a french CS student.
-- 🌱 I’m currently learning Rust.
+- 🇫🇷 I'm a french CS student.
+- 🦀  I’m currently learning Rust.
